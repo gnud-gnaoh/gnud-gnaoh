@@ -1,10 +1,6 @@
-- 👋 Hi, I’m @gnud-gnaoh
-- 👀 I’m interested in coding
-- 🌱 I’m currently learning ai/ml
-- 💞️ I’m looking to collaborate on anything
-- 📫 How to reach me: discord bubu0994
-
-<!---
-gnud-gnaoh/gnud-gnaoh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<a href="https://github.com/gnud-gnaoh">
+  <img height=200 align="center" src="https://github-readme-stats-one-khaki-73.vercel.app/api?username=gnud-gnaoh&show_icons=true&theme=gruvbox&count_private=true" />
+</a>
+<a href="https://github.com/gnud-gnaoh">
+  <img height=200 align="center" src="https://github-readme-stats-one-khaki-73.vercel.app/api/top-langs?username=gnud-gnaoh&layout=compact&langs_count=8&card_width=320" />
+</a>
